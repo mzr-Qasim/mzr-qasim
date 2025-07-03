@@ -7,6 +7,7 @@
 
 ![Muhammad Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzr-qasim&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzr-qasim&layout=compact&theme=tokyonight)
+![Profile Grade](https://img.shields.io/badge/Grade-B--orange)
 
 
 
