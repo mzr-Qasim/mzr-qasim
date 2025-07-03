@@ -14,6 +14,18 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
+### 🌐 My Top Websites
+
+🔹 [WAIRZA](https://wearza.netlify.app/)  
+*Advanced fashion eCommerce store built with **React** and **SCSS**. Features modern UI/UX, responsiveness, and smooth performance.*
+
+🔹 [UrbanFlux](https://urbanflux.malikqasim.info/)  
+*Basic fashion eCommerce site developed using **Django**, **SCSS**, and **JavaScript**. Includes product browsing and structured layouts.*
+
+🔹 [TechFix Dubai](https://mzr-qasim.github.io/Techfix_Dubai/)  
+*Landing page for a Dubai-based tech repair service. Designed with **SCSS** and **JavaScript** for clean UI and animations.*
+
+
 [![Website](https://img.shields.io/badge/Website-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.malikqasim.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-a5ba3224a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.malikqasim20051@gmail.com)
