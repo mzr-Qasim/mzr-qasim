@@ -1,6 +1,6 @@
 ### Hi, I'm Muhammad Qasim 👋
 
-- 💻 Full Stack Developer specialized in Django  
+💻 Full Stack Developer with solid experience in Django  
 - 🛡️ Junior CEH (Certified Ethical Hacker) with foundational knowledge in web security  
 - ⚛️ Currently learning React to enhance my frontend skills and build modern UIs  
 - 🎯 Strong frontend experience with **HTML**, **SCSS**, and **JavaScript**  
