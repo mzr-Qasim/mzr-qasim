@@ -5,5 +5,8 @@
 - ⚛️ Currently learning React to enhance my frontend skills and build modern UIs  
 - 🚀 Passionate about building secure and efficient web applications  
 
-![Muhammad Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikqasim&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikqasim&layout=compact&theme=tokyonight)
+![Muhammad Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzr-qasim&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzr-qasim&layout=compact&theme=tokyonight)
+
+
+
