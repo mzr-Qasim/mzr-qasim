@@ -13,7 +13,12 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+### 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mzr-qasim&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mzr-qasim&theme=tokyonight)
 
 [![Website](https://img.shields.io/badge/Website-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.malikqasim.info)
